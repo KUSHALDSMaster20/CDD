@@ -1,1 +1,3 @@
-hello students
+name: kushal.DS
+usn : 2026lcs27
+computer science and engineering
