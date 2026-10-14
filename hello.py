@@ -1,1 +1,1 @@
-print("Hello, Github 6th experiment ")
+printf("Hello, Github 6th experiment ")
